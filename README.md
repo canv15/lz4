@@ -1,5 +1,6 @@
 [![godoc](https://godoc.org/github.com/pierrec/lz4?status.png)](https://godoc.org/github.com/pierrec/lz4)
 [![Build Status](https://travis-ci.org/pierrec/lz4.svg?branch=master)](https://travis-ci.org/pierrec/lz4)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flz4.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flz4?ref=badge_shield)
 
 # lz4
 LZ4 compression and decompression in pure Go
@@ -29,3 +30,7 @@ For a complete description of an lz4 compressed block, see:
 http://fastcompression.blogspot.fr/2011/05/lz4-explained.html
 
 See https://github.com/Cyan4973/lz4 for the reference C implementation.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flz4.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flz4?ref=badge_large)
